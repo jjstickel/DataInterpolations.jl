@@ -15,7 +15,7 @@
 #   for the other interpolaters?)
 # - make use of `munge_data` features (allow for matrix rather than vector u & t arguments?)
 # - validate data and t̂
-# x unit tests
+# - unit tests -- add interpolation test, i.e., A(val)
 
 
 const LA = LinearAlgebra
